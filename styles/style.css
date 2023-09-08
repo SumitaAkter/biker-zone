@@ -1,0 +1,14 @@
+.bikerz-zone-light-red{
+background-color: rgb(242, 168, 168);
+}
+
+.row-1{
+    display: grid;
+grid-template-columns: repeat(2, 2fr);
+color: white;
+}
+.row-2{
+    display: grid;
+grid-template-columns: repeat(6, 2fr);
+color: white;
+}
